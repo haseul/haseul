@@ -2,4 +2,4 @@
 
 <img src="https://i.imgur.com/8zQvNh2.jpg" width="150"/>
 
-[![HitCount](https://views.whatilearened.today/views/github/wesky93/views.svg](https://views.whatilearened.today/views/github/wesky93/views.svg) 
+![ViewCount](https://views.whatilearened.today/views/github/heizes/views.svg?cache=remove)
