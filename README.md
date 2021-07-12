@@ -1,4 +1,4 @@
-![metrics](https://metrics.lecoq.io/haseul?template=classic&config.timezone=Asia%2FSingapore)
+<!-- ![metrics](https://metrics.lecoq.io/haseul?template=classic&config.timezone=Asia%2FSingapore) -->
 
 <!--- <img src="https://i.imgur.com/3BVx67n.gif" width="150"/> -->
 
