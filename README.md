@@ -6,5 +6,5 @@
 test
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img height="300" style="float: right" src="https://spotify-github-profile.vercel.app/api/view?uid=tzqmjty3vssn0dnh9ersqi44v&cover_image=true&theme=default">
+  <img height="300" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=tzqmjty3vssn0dnh9ersqi44v&cover_image=true&theme=default">
 </a>
