@@ -8,11 +8,6 @@ I'm a 4th year CS undergraduate and I love exploring new technologies.
 - 🌱 I’m currently focusing on hardening my CTF skills, specifically in Binary Exploitation.
 - 🎵 I listen to KPOP.
 
-You can reach me:
-
-[![Protonmail](https://img.shields.io/badge/email-c.haseul@pm.me-263163?style=for-the-badge&logo=Protonmail&logoColor=white&style=flat-square)](mailto:c.haseul@pm.me)
-![Keybase PGP](https://img.shields.io/keybase/pgp/haseul?color=263163&logo=keybase&logoColor=white&style=flat-square)
-
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img width="250" src="https://spotify-github-profile.vercel.app/api/view?uid=tzqmjty3vssn0dnh9ersqi44v&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true">
 </a> 
