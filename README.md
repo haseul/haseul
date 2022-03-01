@@ -15,4 +15,4 @@
 <!-- ![metrics](https://metrics.lecoq.io/haseul?template=classic&config.timezone=Asia%2FSingapore) -->
 <!--- ![ViewCount](https://views.whatilearened.today/views/github/heizes/views.svg?cache=remove) -->
 
-miraiCTF{OS1NT_1snt_h4rd?}
+
