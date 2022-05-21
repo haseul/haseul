@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/3BVx67n.gif"  align="right" width="150"/>
+# <img src="https://i.imgur.com/3BVx67n.gif"  align="right" width="150"/>
 
 # Hi there, I'm mirai
 
